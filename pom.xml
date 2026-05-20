@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.padrao</groupId>
-	<artifactId>memento</artifactId>
+	<artifactId>visitor</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
